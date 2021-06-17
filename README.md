@@ -1,1 +1,1 @@
-# lenet-alexnet-vgg-nin-rnn-googlenet-minist-cifa10-
+# lenet-alexnet-vgg-nin-rnn-googlenet-minist-cifa10-qerqwerwer
